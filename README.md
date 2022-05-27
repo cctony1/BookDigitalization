@@ -3,7 +3,7 @@ In this short project, I built classifiers for images and sequences of images (v
 Goals:
 
     Build a model that exhibits a high f1-score for binary classification of images.
-    Adapt the model for binary classification of videos containing the actions of either 'page flipping' or 'page not flipping'.
+    Adapt the model for videos containing the actions of 'page flipping' or 'page not flipping'.
 
 I achieved a macro average of f1 = 98% for image classification, and 90% for video classification.
 
